@@ -1,1 +1,1 @@
-Procfile
+gunicorn app:app
